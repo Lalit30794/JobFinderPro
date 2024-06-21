@@ -1,0 +1,7 @@
+{
+  "name": "jobfind",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
